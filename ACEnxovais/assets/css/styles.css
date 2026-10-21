@@ -1,0 +1,31 @@
+:root{--white:#fff;--text:#8a6d3b;--gold:#aa7c11;--gold-l:#d4af37;--gold-b:#e5c158;--blush:#fbeceb;--blush2:#f3d3ce;--grad:linear-gradient(135deg,#d4af37,#aa7c11);--r:24px}
+*{box-sizing:border-box}body{margin:0;font:300 16px/normal Montserrat,sans-serif;color:var(--text);background:#fff}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}
+.strip{background:var(--blush);text-align:center;padding:10px;font-size:13px;font-weight:400}
+header{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:22px 40px;flex-wrap:wrap}
+.brand{font:600 38px 'Cormorant Garamond',serif;color:var(--gold)}
+nav{display:flex;gap:28px;font-size:14px;flex-wrap:wrap}nav b{font-weight:600}
+.search{width:175px;height:38px;border:1px solid var(--gold-b);border-radius:999px;padding:0 16px;font:300 13px Montserrat;color:var(--text);outline:0}
+.hero{background:var(--blush);padding:70px 80px 30px;display:grid;grid-template-columns:1fr 560px;gap:60px;align-items:center}
+.hero h1{font-weight:300;font-size:48px;margin:20px 0;max-width:560px}.hero p{max-width:480px;margin:0 0 20px}
+.eyebrow{font:500 13px Montserrat;letter-spacing:.2em;color:var(--gold);text-transform:uppercase}
+.hero img{width:560px;height:420px;object-fit:cover;border-radius:var(--r)}
+.btn{display:inline-flex;padding:16px 36px;border-radius:999px;background:var(--grad);color:#fff;font:600 14px Montserrat;letter-spacing:.04em}
+.benefits{background:var(--blush);display:flex;justify-content:center;gap:60px;padding:30px 20px;font:600 12px Montserrat;flex-wrap:wrap;text-align:center}
+section{padding:56px 40px}h2{font-weight:300;font-size:32px;text-align:center;margin:0 0 36px}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.category-card{position:relative;min-height:340px;border-radius:var(--r);overflow:hidden;background:var(--blush);display:flex;flex-direction:column;align-items:center;justify-content:flex-end;gap:6px;padding:24px;text-align:center}
+.category-card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.category-card:after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(251,236,235,.96) 0,rgba(251,236,235,0) 48%)}
+.category-card h3,.category-card span{position:relative;z-index:1;margin:0}.category-card h3{font:400 18px Montserrat;letter-spacing:.08em;text-transform:uppercase}.category-card span{font-size:14px}
+.product-card{display:flex;flex-direction:column;gap:12px}
+.product-media{position:relative;height:320px;border-radius:var(--r);overflow:hidden;background:var(--blush)}.product-media img{width:100%;height:100%;object-fit:cover}
+.product-badge{position:absolute;top:16px;left:16px;padding:5px 12px;border-radius:999px;background:var(--grad);color:#fff;font:600 12px Montserrat}
+.product-name{font-size:15px}.product-card strong{font-weight:600}
+.prod{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px;padding:32px 40px}
+.prod .main{width:100%;border-radius:var(--r);aspect-ratio:1;object-fit:cover}.thumbs{display:flex;gap:12px;margin-top:12px}.thumbs img{width:72px;height:72px;object-fit:cover;border-radius:12px;cursor:pointer;border:1px solid var(--gold-b)}
+.info h1{font-weight:300;font-size:32px;margin:0 0 20px}.pre{white-space:pre-line;line-height:1.6}.info .precos{font-weight:600;margin-bottom:20px}.info .btn{margin:8px 0 20px}.ficha{font-size:13px;border-top:1px solid var(--gold-b);padding-top:16px;margin-top:20px}
+.crumb{padding:0 40px;font-size:13px}.pager{display:flex;justify-content:space-between;padding:0 40px;font-size:14px}
+footer{background:var(--text);color:#fff;padding:36px 40px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;font-size:14px}footer .brand{font-size:32px;color:var(--gold-l)}footer small{width:100%;opacity:.8;font-size:12px}
+@media(max-width:900px){.hero,.prod{grid-template-columns:1fr;padding:32px 20px}.hero img{width:100%;height:auto;aspect-ratio:4/3}.grid{grid-template-columns:repeat(2,1fr)}header,section,footer{padding-left:20px;padding-right:20px}.hero h1{font-size:36px}}
+@media(max-width:520px){.grid{grid-template-columns:1fr}}
