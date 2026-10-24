@@ -1,10 +1,10 @@
 window.CONFIG={whatsapp:"+5587996576741",hero:"hero/ACE-HERO-HOM-001_v1.webp"};
-window.CATEGORIAS=[{"slug": "cama", "nome": "Cama", "img": "categorias/ACE-CARD-CAM-001_v1.webp"}, {"slug": "banho", "nome": "Banho bordado", "img": "categorias/ACE-CARD-BAN-001_v1.webp"}, {"slug": "mesa", "nome": "Mesa", "img": "categorias/ACE-CARD-MES-001_v1.webp"}, {"slug": "personalizados", "nome": "Personalizados", "img": "categorias/ACE-CARD-PER-001_v1.webp"}];
+window.CATEGORIAS=[{"slug": "cama", "nome": "Cama", "img": "categorias/ACE-CARD-CAM-001_v1.webp"},  {"slug": "mesa", "nome": "Mesa", "img": "categorias/ACE-CARD-MES-001_v1.webp"}, {"slug": "banho", "nome": "Banho", "img": "categorias/ACE-CARD-BAN-001_v1.webp"}, {"slug": "personalize você também", "nome": "Personalize você também", "img": "categorias/ACE-CARD-PER-001_v1.webp"}];
 window.PRODUTOS=[
  {
   "id": "ACE-PROD-MES-001",
-  "nome": "Jogo americano de Natal festonado com laço vermelho",
-  "titulo": "Jogo americano de Natal festonado com laço vermelho · bordado à máquina",
+  "nome": "Jogo americano de Natal festonê com laço vermelho",
+  "titulo": "Jogo americano de Natal em oxford com laço vermelho acabamento refinado em festonê",
   "cat": "mesa",
   "col": "natal",
   "selo": "Natal",
@@ -13,13 +13,13 @@ window.PRODUTOS=[
   ],
   "desde": "R$ 41,00 a unidade",
   "precos": "💰 R$ 41,00 a unidade\n💰 Kit com 4: R$ 164,00 · Kit com 6: R$ 246,00\n💰 Só o bordado no seu tecido: R$ 36,00 a unidade",
-  "texto": "Jogo americano festonado, branco, com laço bordado no alto e duplo contorno em linha vermelha acompanhando o recorte. Bordado feito à máquina, em um tom só, para pôr a mesa de Natal sem exagero.\nCores e estampas conforme estoque. Os 3 tecidos (150, 180 e 200 fios) são 100% algodão e têm o mesmo preço.",
+  "texto": "Jogo americano branco com barra em festonê, duplo contorno em linha vermelha e detalhe com laço decorativo. Tenha uma mesa de Natal encantadora com oxford de qualidade superior e traga um toque harmonioso à sua ceia.\nCores e estampas conforme estoque.",
   "ficha": "SKU: DS-1C-JA-Q1 (150 fios) · DS-1C-JA-Q2 (180 fios) · DS-1C-JA-Q3 (200 fios) · DS-1C-JA-CL (tecido do cliente)\nBordado: desenho simples, 1 cor de linha",
   "fecho": "📦 Enviamos para todo o Brasil 🇧🇷\n💳 Parcele em até 5x sem juros\n📱 Chame nossas vendedoras no WhatsApp\n🌐 Ou compre no site: www.acenxovais.com.br\nChame nossas vendedoras e faça seu pedido."
  },
  {
   "id": "ACE-PROD-MES-002",
-  "nome": "Jogo americano de Natal com laço, poinsétias e azevinho",
+  "nome": "Jogo americano com laço e arranjo natalino",
   "titulo": "Jogo americano de Natal com laço, poinsétias e azevinho · bordado à máquina",
   "cat": "mesa",
   "col": "natal",
