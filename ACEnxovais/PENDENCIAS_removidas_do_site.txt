@@ -1,19 +1,39 @@
-ACE-PROD-MES-001: Medida: [CONFIRMAR medida]
-ACE-PROD-MES-001: Prazo: [CONFIRMAR prazo de produção]
-ACE-PROD-MES-002: Medida: [CONFIRMAR medida]
-ACE-PROD-MES-002: Prazo: [CONFIRMAR prazo de produção]
-ACE-PROD-MES-003: Medida: [CONFIRMAR medida]
-ACE-PROD-MES-003: Prazo: [CONFIRMAR prazo de produção]
-ACE-PROD-MES-004: Medida: [CONFIRMAR medida]
-ACE-PROD-MES-004: Prazo: [CONFIRMAR prazo de produção]
+Dados NÃO publicados no site por estarem sem confirmação ([CONFIRMAR]). Preencha e devolva para entrarem nas páginas.
+
+ACE-CARD-BAN-001: Prazo: [CONFIRMAR prazo de produção]
+ACE-CARD-CAM-001: Estampa floral sob encomenda: [CONFIRMAR se o florido de 180 fios é a mesma estampa]
+ACE-CARD-CAM-002: Fio e disponibilidade da cor creme: [CONFIRMAR] (creme não está na lista de tecidos da v3)
+ACE-CARD-CAM-002: Tamanho: casal (premissa; [CONFIRMAR])
+ACE-CARD-MES-001: Material: [CONFIRMAR composição da peça].
 ACE-CARD-MES-001: Medida: [CONFIRMAR medida]
 ACE-CARD-MES-001: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-BAN-001: foto mostra 6 toalhas; kit Completo tem 4 — [CONFIRMAR o que a foto representa]
+ACE-PROD-BAN-001: laço + nome enquadra em "logo simples" (preço das Bodas)? [CONFIRMAR]
+ACE-PROD-BAN-001: limite de letras e prazo [CONFIRMAR]
+ACE-PROD-CAM-003: tamanho do jogo da foto e se o tecido é o bambu 180 fios [CONFIRMAR]
+ACE-PROD-CAM-004: tamanho do jogo da foto [CONFIRMAR]
+ACE-PROD-MES-001: Material: [CONFIRMAR composição da peça].
+ACE-PROD-MES-001: Medida: [CONFIRMAR medida]
+ACE-PROD-MES-001: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-MES-002: Material: [CONFIRMAR composição da peça].
+ACE-PROD-MES-002: Medida: [CONFIRMAR medida]
+ACE-PROD-MES-002: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-MES-003: Material: [CONFIRMAR composição da peça].
+ACE-PROD-MES-003: Medida: [CONFIRMAR medida]
+ACE-PROD-MES-003: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-MES-004: Material: [CONFIRMAR composição da peça].
+ACE-PROD-MES-004: Medida: [CONFIRMAR medida]
+ACE-PROD-MES-004: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-PER-001_v2: Limite de letras do nome: [CONFIRMAR]
 ACE-PROD-PER-001_v2: Prazo: [CONFIRMAR prazo de produção]
+ACE-PROD-PER-002_v2: Limite de letras do nome: [CONFIRMAR]
 ACE-PROD-PER-002_v2: Prazo: [CONFIRMAR prazo de produção]
-ACE-CARD-BAN-001: Prazo: [CONFIRMAR prazo de produção]
-ACE-HERO-HOM-001: Tamanho do jogo da foto: [CONFIRMAR]
-ACE-HERO-HOM-001: Disponibilidade da estampa: [CONFIRMAR]
-ACE-CARD-CAM-001: Tamanho do jogo da foto: [CONFIRMAR]
-ACE-CARD-CAM-001: Disponibilidade da estampa: [CONFIRMAR]
-ACE-CARD-CAM-002: Tamanho: casal (premissa; [CONFIRMAR])
-ACE-CARD-CAM-002: Disponibilidade da cor creme: [CONFIRMAR]
+ACE-PROD-CAM-006 / CAM-007 (travesseiros Altenburg): preço e SKU [CONFIRMAR]. Medidas e composição vieram da embalagem (Super Firme 48x68 cm; Visco NASA 46x66 cm)
+ACE-PROD-CAM-007: o anúncio de origem trazia dados conflitantes (cor bege x branco, revestimento poliéster x embalagem 100% algodão, marca "Genérico") e altura de ~13 cm; ficaram fora do site. [CONFIRMAR]
+ACE-PROD-CAM-005 (Vagonite exclusivo): preço e SKU [CONFIRMAR]; manter o "restam 3 peças" atualizado (ou tirar do site quando acabar)
+ACE-PROD-CAM-008/009/010 (novas estampas): o fio de cada foto vem do nome do arquivo (tecido200fios = florido e losangos verde/amarelo; tecido180fios = quadrados rosé). Preço por fio igual ao dos demais jogos. [CONFIRMAR fio de cada estampa e tamanho do jogo da foto]
+ACE-PROD-PER-003 (camisa polo com bordado de profissão): preço, prazo, pedido mínimo e se o bordado é na peça do cliente ou se a loja fornece a camisa [CONFIRMAR]
+ACE-PROD-CAM-011 (cobertura lisa verde-água, 200 fios): preço, SKU, composição e tamanhos [CONFIRMAR]
+ACE-PROD-BAN-002 (Toalhas Valitex Básicas) e ACE-PROD-BAN-003 (Toalhas Valitex Super Premium): preço definido como "sob consulta"; SKU, composição, medidas, cores disponíveis e prazo/limite do bordado [CONFIRMAR]
+ACE-PROD-CAM-012 (lençol liso rosé, 200 fios): preço, SKU e tamanhos [CONFIRMAR]
+Logo: o monograma foi extraído de uma imagem do Gemini (raster). Quando houver o SVG/PNG original da logo (e o "enxovais" na fonte própria), trocar assets/imagens/logo/
